@@ -42,4 +42,8 @@ ro.bootimage.build.fingerprint=samsung/a8xelteskt/a8xelteskt:8.0.0/R16NW/A810SKS
 
 # Secure-Storage
 ro.securestorage.support=false
+
 wlan.wfd.hdcp=disable
+
+# HWC
+debug.sf.latch_unsignaled=1
